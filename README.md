@@ -9,7 +9,7 @@
 Esse projeto consiste em uma pagina web de procura de endereço utilizando uma ferramenta de busca de C.E.P , onde ao ser digitado no campo, adiciona as informações automaticamente aos campos corretos.
 
 ## ViaCep
-* [<code> alt="ViaCep"/></code>](https://viacep.com.br/)
+* [](https://viacep.com.br/)
 O ViaCEP é uma API (Interface de Programação de Aplicações) brasileira que disponibiliza informações detalhadas sobre endereços a partir de seus CEPs (Códigos de Endereçamento Postal). Essa ferramenta gratuita e simples de usar tem se tornado indispensável para diversas aplicações que exigem a localização precisa de endereços, como:
 
 - E-commerce: Calcular frete, validar endereços e otimizar a entrega;
@@ -33,11 +33,16 @@ Vantagens de utilizar o ViaCEP:
 - Versátil: Pode ser integrada a diversas linguagens de programação e plataformas.
 
 ## Site
+Chegando ao site o usuario deve inserir algum CEP (Codigo de Endereçamento Postal), se o CEP for existente, ao sair do campo de digitação as informações da localização irão aparecer nos devidos lugares. Caso o CEP for inexistente uma mensagem irá aparecer na tela dizendo que o mesmo não foi encontrado.
+
+![exemplo](vdi/exemplo1.gif)
 
 ## Funções
-
+Enumero = 
 ## Funcionalidades
 
+## Referências 
+[Mdn](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_expressions)
 
 ## Tecnologias Utilizadas
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
