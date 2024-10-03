@@ -2,7 +2,7 @@
 
 * [introdoção](#introducao)
 * [funcionalidades](#funcionalidades)
-* [Referências](#referencias)
+* [referencias](#referências)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
 
