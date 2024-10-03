@@ -2,8 +2,8 @@
 
 * [introdoção](#introducao)
 * [funcionalidades](#funcionalidades)
-* [Funções](#funcoes)
-* [Referências](#referencias)
+* [Funções](#funções)
+* [Referências](#referências)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
 
