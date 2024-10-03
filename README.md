@@ -3,8 +3,8 @@
 * [introdoção](#introducao)
 * [funcionalidades](#funcionalidades)
 * [Funções](#funções)
-* [Referências](#referências)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Referências](#referências)
 * [Autores](#autores)
 
 ## Introdução
@@ -67,6 +67,8 @@ Resumo da Funcionalidade:
 Em resumo, o código automatiza o processo de consulta de endereços por CEP, proporcionando uma experiência mais rápida e conveniente para o usuário.
 
 ## Funções
+JSON, que significa JavaScript Object Notation, é uma formatação utilizada para estruturar dados em formato de texto e transmiti-los de um sistema para outro, como em aplicações cliente-servidor ou em aplicativos móveis.
+
 Para todos que não sabem a função (const) define uma constante, ou seja, uma variável cujo valor não pode ser alterado após sua inicialização.
 
 Console.log - O console.log é uma função do JavaScript que imprime uma mensagem no console do navegador ou do ambiente de desenvolvimento.
@@ -143,12 +145,6 @@ Esse código configura o campo de entrada do CEP para que, assim que o usuário 
 
 'focusout': Especifica o tipo de evento que estamos monitorando. Nesse caso, é o evento focusout, que ocorre quando o foco do usuário sai do elemento.
 
-## Referências
-
-[Mdn](https://developer.mozilla.org/pt-BR/)
-[Alura](https://www.alura.com.br)
-
-
 ## Tecnologias Utilizadas
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
@@ -156,5 +152,11 @@ Esse código configura o campo de entrada do CEP para que, assim que o usuário 
 * [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>](https://github.com/)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css3"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## Referências
+
+[Mdn](https://developer.mozilla.org/pt-BR/)
+[Alura](https://www.alura.com.br)
+
 ## Autores
 * ``Aluno 2ºC:``Rafael Souza Mastellini
