@@ -1,7 +1,7 @@
 # form-CadEndereco
 
-* [introdoção](#introducao)
-* [funcionalidades](#funcionalidades)
+* [Introdoção](#introducao)
+* [Funcionalidades](#funcionalidades)
 * [Funções](#funções)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Referências](#referências)
@@ -11,8 +11,7 @@
 Esse projeto consiste em uma pagina web de procura de endereço utilizando uma ferramenta de busca de C.E.P , onde ao ser digitado no campo, adiciona as informações automaticamente aos campos corretos.
 
 ## ViaCep
-* [](https://viacep.com.br/)
-O ViaCEP é uma API (Interface de Programação de Aplicações) brasileira que disponibiliza informações detalhadas sobre endereços a partir de seus CEPs (Códigos de Endereçamento Postal). Essa ferramenta gratuita e simples de usar tem se tornado indispensável para diversas aplicações que exigem a localização precisa de endereços, como:
+O [ViaCEP](https://viacep.com.br/) é uma API (Interface de Programação de Aplicações) brasileira que disponibiliza informações detalhadas sobre endereços a partir de seus CEPs (Códigos de Endereçamento Postal). Essa ferramenta gratuita e simples de usar tem se tornado indispensável para diversas aplicações que exigem a localização precisa de endereços, como:
 
 - E-commerce: Calcular frete, validar endereços e otimizar a entrega;
 - Sistemas de gestão: Cadastrar clientes, fornecedores e realizar entregas;
