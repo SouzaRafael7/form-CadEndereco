@@ -154,8 +154,8 @@ Esse código configura o campo de entrada do CEP para que, assim que o usuário 
 
 ## Referências
 
-[Mdn](https://developer.mozilla.org/pt-BR/)
-[Alura](https://www.alura.com.br)
+- [Mdn](https://developer.mozilla.org/pt-BR/)
+- [Alura](https://www.alura.com.br)
 
 ## Autores
 * ``Aluno 2ºC:``Rafael Souza Mastellini
